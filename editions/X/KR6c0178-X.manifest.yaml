@@ -1,0 +1,128 @@
+canonical_identifier: bkk:krp/KR6c0178/X/v1
+canonical_location: https://kanripo.org/bkk/KR6c0178/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 般若心經事觀解
+  identifiers:
+    krp: KR6c0178
+    cbeta: X26n0559
+    cbeta_old_id: X26n0559
+    authorityid: CA0000202
+    json_key: X0559
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0559.xml
+    old_id: X26n0559
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0178_000-X.yaml, hash: 'sha256:67f83975c830f7a7fdcf47a6d6722f88e9f5a5822e98df2733b851f42f258625'}
+  - {seq: 1, filename: KR6c0178_001-X.yaml, hash: 'sha256:dcfa1d418551f211c8086f1d49f613c623e8c7f6d265f3adb2dd0a154264b88b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0178_000-X.markers.yaml, hash: 'sha256:8cc2808af5cdfdf689e4907e620616b2bef2a1b4cb45a573a9a8f4c3761fd537'}
+  - {seq: 1, role: markers, filename: assets/KR6c0178_001-X.markers.yaml, hash: 'sha256:752b49d7476ab4915b1a98c780a7d31e498090443dee232f97d51b5f860f2bd6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0178_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 559-A 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0178_X_000-mulu-2
+    span:
+    - front
+    - 537
+    - 537
+  label: No. 559-B 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0178_X_000-mulu-3
+    span:
+    - front
+    - 693
+    - 693
+  label: No. 559-C 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0178_X_000-mulu-4
+    span:
+    - front
+    - 969
+    - 969
+  label: 般若心經解總目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0178_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9261
+  label: 般若波羅蜜多心經事觀解卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0178_X_001-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 懸談
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0178_X_001-mulu-2
+    span:
+    - body
+    - 1846
+    - 1846
+  label: 經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0178_X_001-mulu-3
+    span:
+    - body
+    - 2575
+    - 2575
+  label: 譯人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0178_X_001-mulu-4
+    span:
+    - body
+    - 2788
+    - 2788
+  label: 文義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0178_X_001-mulu-5
+    span:
+    - body
+    - 9233
+    - 9233
+  label: 頌
+  type: mulu
+  level: 1
+hash: sha256:17db3c99a9704bc758fa3ecb9808c9d7ef6f6ec732e6806cefa52246da824abf
