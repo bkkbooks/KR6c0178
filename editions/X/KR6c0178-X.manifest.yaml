@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0178_000-X.yaml, hash: 'sha256:67f83975c830f7a7fdcf47a6d6722f88e9f5a5822e98df2733b851f42f258625'}
+  - {seq: 0, filename: KR6c0178_000-X.yaml, hash: 'sha256:11a4ebc9cac39d88cdc3df979e1f8df4257f903794bbf4ef07354c9026e95e9e'}
   - {seq: 1, filename: KR6c0178_001-X.yaml, hash: 'sha256:dcfa1d418551f211c8086f1d49f613c623e8c7f6d265f3adb2dd0a154264b88b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0178_000-X.markers.yaml, hash: 'sha256:8cc2808af5cdfdf689e4907e620616b2bef2a1b4cb45a573a9a8f4c3761fd537'}
+  - {seq: 0, role: markers, filename: assets/KR6c0178_000-X.markers.yaml, hash: 'sha256:6008a1cb80009902bff9c45a0399f738369c9b9591e6ea2d9ff49958c1ed5db2'}
   - {seq: 1, role: markers, filename: assets/KR6c0178_001-X.markers.yaml, hash: 'sha256:752b49d7476ab4915b1a98c780a7d31e498090443dee232f97d51b5f860f2bd6'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0178_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 559-A 序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0178_X_000-mulu-2
     span:
-    - front
+    - body
     - 537
     - 537
   label: No. 559-B 序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0178_X_000-mulu-3
     span:
-    - front
+    - body
     - 693
     - 693
   label: No. 559-C 序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0178_X_000-mulu-4
     span:
-    - front
+    - body
     - 969
     - 969
   label: 般若心經解總目
@@ -125,4 +125,4 @@ table_of_contents:
   label: 頌
   type: mulu
   level: 1
-hash: sha256:17db3c99a9704bc758fa3ecb9808c9d7ef6f6ec732e6806cefa52246da824abf
+hash: sha256:25096b9b8cc6e2704830ac55c85a960b6ba9d71a0eb48d789bd163d5cabc8456

@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0178_000.yaml, hash: 'sha256:7e7adde3901a53a36844af7de3af971d8046d378e6a6296f246413127fffcac7'}
+  - {seq: 0, filename: KR6c0178_000.yaml, hash: 'sha256:db2ff07d6aafba789d5e2974aafe008b08fa81f5b08479d232b423e47da0997a'}
   - {seq: 1, filename: KR6c0178_001.yaml, hash: 'sha256:3b3138708db078630ddfb335ffd8d692b7b8003dcadb972ab600ba723b3a9ef7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0178_000.markers.yaml, hash: 'sha256:14bbb43e8448b2413ec990170166aaa9a924c516f308f5cdcb21ad4647d6cec7'}
+  - {seq: 0, role: markers, filename: assets/KR6c0178_000.markers.yaml, hash: 'sha256:a3f57c4c4136b2529508b3a8da0f428e0106c5b558330a52e0b651c4cb817462'}
   - {seq: 1, role: markers, filename: assets/KR6c0178_001.markers.yaml, hash: 'sha256:0b8f7f6df0a370503314ae73d1b88b8dca863b7cb6af0cd7f06c5591aada692d'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0178_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 559-A 序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0178_X_000-mulu-2
     span:
-    - front
+    - body
     - 537
     - 537
   label: No. 559-B 序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0178_X_000-mulu-3
     span:
-    - front
+    - body
     - 693
     - 693
   label: No. 559-C 序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0178_X_000-mulu-4
     span:
-    - front
+    - body
     - 969
     - 969
   label: 般若心經解總目
@@ -127,7 +127,7 @@ table_of_contents:
   label: 頌
   type: mulu
   level: 1
-hash: sha256:fca648dff86d08b22bd723ea43bd82f4f172ba7a1ac06be3c493f9f6f1492095
+hash: sha256:f71890e2afd9f2752f16c4ff2cc6978b9585e7eafd62e03b9a8fe605cbbb4d95
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
